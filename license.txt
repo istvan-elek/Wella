@@ -4,7 +4,7 @@ Copyright (c) [2026] [Istvan Elek]
 All rights reserved.
 
 Software: "WELLA: Well Log Analysing system" (the "Software")
-Repository: [OPTIONAL REPO URL]
+Repository: [https://github.com/istvan-elek/Wella/blob/main/license.txt]
 
 1. Purpose
 This license makes the source code available for viewing, compiling, and using the Software
