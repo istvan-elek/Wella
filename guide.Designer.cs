@@ -28,33 +28,40 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.webBrowser_wella = new System.Windows.Forms.WebBrowser();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(guide));
+            this.webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
+            ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
             this.SuspendLayout();
             // 
-            // webBrowser_wella
+            // webView21
             // 
-            this.webBrowser_wella.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.webBrowser_wella.Location = new System.Drawing.Point(0, 0);
-            this.webBrowser_wella.MinimumSize = new System.Drawing.Size(20, 20);
-            this.webBrowser_wella.Name = "webBrowser_wella";
-            this.webBrowser_wella.Size = new System.Drawing.Size(928, 688);
-            this.webBrowser_wella.TabIndex = 0;
+            this.webView21.AllowExternalDrop = true;
+            this.webView21.CreationProperties = null;
+            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView21.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webView21.Location = new System.Drawing.Point(0, 0);
+            this.webView21.Name = "webView21";
+            this.webView21.Size = new System.Drawing.Size(928, 688);
+            this.webView21.TabIndex = 0;
+            this.webView21.ZoomFactor = 1D;
             // 
             // guide
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(928, 688);
-            this.Controls.Add(this.webBrowser_wella);
+            this.Controls.Add(this.webView21);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "guide";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "guide";
+            ((System.ComponentModel.ISupportInitialize)(this.webView21)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.WebBrowser webBrowser_wella;
+        private Microsoft.Web.WebView2.WinForms.WebView2 webView21;
     }
 }

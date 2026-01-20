@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|c:\\users\\elek istv\u00E1n\\documents\\myprogs\\wella\\frmwell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|c:\\users\\elek istv\u00E1n\\documents\\myprogs\\wella\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|solutionrelative:guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|c:\\users\\elek istv\u00E1n\\documents\\myprogs\\wella\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|solutionrelative:guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmwell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|solutionrelative:frmwell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,15 +19,18 @@
       "RelativeMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|solutionrelative:frmwell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|wella||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|c:\\users\\elek istv\u00E1n\\documents\\myprogs\\wella\\frmcrossplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|solutionrelative:frmcrossplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\wells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|solutionrelative:wells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|wella||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmcrossplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|solutionrelative:frmcrossplot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EEF21785-8DD3-4A4E-9570-8D4D0F279B0A}|wella.csproj|c:\\users\\elek istv\u00E1n\\documents\\myprogs\\wella\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,48 +40,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmCrossPlot.cs",
               "DocumentMoniker": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmCrossPlot.cs",
               "RelativeDocumentMoniker": "frmCrossPlot.cs",
               "ToolTip": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmCrossPlot.cs",
               "RelativeToolTip": "frmCrossPlot.cs",
-              "ViewState": "AgIAAJEBAAAAAAAAAAAewKMBAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAqwLYBAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T05:16:51.874Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "guide.cs",
+              "DocumentMoniker": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\guide.cs",
+              "RelativeDocumentMoniker": "guide.cs",
+              "ToolTip": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\guide.cs*",
+              "RelativeToolTip": "guide.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:28:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "guide.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\guide.cs",
+              "RelativeDocumentMoniker": "guide.cs",
+              "ToolTip": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\guide.cs [Design]*",
+              "RelativeToolTip": "guide.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T12:28:15.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "wella",
               "DocumentMoniker": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\wella.csproj",
               "RelativeDocumentMoniker": "wella.csproj",
               "ToolTip": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\wella.csproj",
               "RelativeToolTip": "wella.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-28T13:29:18.811Z"
+              "WhenOpened": "2025-05-28T13:29:18.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmWell.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmWell.cs",
               "RelativeDocumentMoniker": "frmWell.cs",
-              "ToolTip": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmWell.cs [Design]*",
-              "RelativeToolTip": "frmWell.cs [Design]*",
+              "ToolTip": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmWell.cs [Design]",
+              "RelativeToolTip": "frmWell.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T13:12:00.798Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Wells.cs",
               "DocumentMoniker": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\Wells.cs",
               "RelativeDocumentMoniker": "Wells.cs",
@@ -78,17 +119,18 @@
               "RelativeToolTip": "Wells.cs",
               "ViewState": "AgIAAHEAAAAAAAAAAAAqwNAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T12:28:35.708Z"
+              "WhenOpened": "2025-05-27T12:28:35.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmWell.cs",
               "DocumentMoniker": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmWell.cs",
               "RelativeDocumentMoniker": "frmWell.cs",
-              "ToolTip": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmWell.cs*",
-              "RelativeToolTip": "frmWell.cs*",
-              "ViewState": "AgIAAFYBAAAAAAAAAAAQwGgBAABRAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Elek Istv\u00E1n\\Documents\\MyProgs\\wella\\frmWell.cs",
+              "RelativeToolTip": "frmWell.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAmwAEBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T07:12:01.481Z",
               "EditorCaption": ""

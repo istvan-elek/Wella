@@ -71,3 +71,13 @@ C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\wella.exe.manifest
 C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\wella.application
 C:\Users\Elek István\Documents\MyProgs\wella\obj\Debug\wella.exe.manifest
 C:\Users\Elek István\Documents\MyProgs\wella\obj\Debug\wella.application
+C:\Users\Elek István\Documents\MyProgs\wella\obj\Debug\wella.exe.config
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Elek István\Documents\MyProgs\wella\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
