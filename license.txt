@@ -1,0 +1,69 @@
+WELLA SOURCE-AVAILABLE LICENSE (NON-COMMERCIAL / NO REBRANDING)
+
+Copyright (c) [2026] [Istvan Elek]
+All rights reserved.
+
+Software: "WELLA: Well Log Analysing system" (the "Software")
+Repository: [OPTIONAL REPO URL]
+
+1. Purpose
+This license makes the source code available for viewing, compiling, and using the Software
+for personal, educational, research, and evaluation purposes. It does NOT grant permission
+for commercial use or rebranding.
+
+2. Grant of Rights (Non-Commercial)
+Subject to the restrictions below, you are granted a non-exclusive, non-transferable,
+revocable license to:
+  a) view and study the source code,
+  b) compile and run the Software,
+  c) modify the source code FOR YOUR OWN INTERNAL USE ONLY.
+
+3. Restrictions (What you may NOT do)
+You may NOT, without prior written permission from the copyright holder:
+  a) use the Software or any derivative work for commercial purposes,
+     including selling, licensing, monetizing, offering as a paid service (SaaS),
+     bundling with paid products/services, or using it to deliver paid consulting
+     deliverables where the Software is a material part of the service;
+  b) redistribute the Software in modified form (including forks with changes) in source
+     or binary form;
+  c) redistribute the Software in unmodified form in source or binary form, except by
+     linking to the official repository/release page;
+  d) remove or alter copyright notices, attribution, or this license text;
+  e) represent the Software (or substantial portions of it) as your own work, or
+     misattribute authorship.
+
+4. Attribution
+If you reference, cite, or discuss the Software publicly (e.g., in an article, talk, or video),
+you must credit:
+  "[Istvan Elek] — WELLA: Well Log Analysing system"
+and, where reasonable, provide a link to the official repository/release page.
+
+5. Name and Trademark / No Rebranding
+"WELLA" and "Well Log Analysing system" are identifiers of the original project.
+You may NOT use the names "WELLA" or "Well Log Analysing system" (or confusingly similar
+names), nor any associated logos, to market or distribute your own software, fork, or service
+without prior written permission. You must not imply endorsement by the original author.
+
+6. Contributions
+If you submit a contribution (issue report, patch, pull request, or suggestion), you agree that
+the author may use, modify, and relicense your contribution as part of the Software, without
+any additional permission or compensation.
+
+7. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+8. Termination
+Any violation of this license automatically terminates your rights under this license. Upon
+termination, you must stop using the Software and delete all copies you control.
+
+9. Contact for Commercial License / Permissions
+If you want to use the Software commercially, redistribute it, publish modified versions, or
+use the WELLA name for a fork, contact:
+  [elekistvan56@gmail.com, elek@inf.elte.hu]
+
+--- END OF LICENSE ---

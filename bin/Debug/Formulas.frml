@@ -1,0 +1,5 @@
+acoustic_imp;1/a*b*100
+hányados;a/b
+szorzat;a*b
+hatványozás1;Pow(a,2)
+hatványozás2;Pow(a,2.9)
